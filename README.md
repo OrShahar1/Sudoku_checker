@@ -1,4 +1,4 @@
-# Sudoku-_checker
+# Sudoku_checker
 
 The Sudoku game is set using a 9 x 9 board (i.e. 9 rows and 9 columns).
 
