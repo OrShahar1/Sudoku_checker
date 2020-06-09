@@ -10,6 +10,6 @@ In a valid game solution:
 
 3. Each digit from 1 to 9 appears once in each bold square (see drawing below).
 
-In this question we will write code to check solution for the Sudoku game (i.e. a suitable 2D array).
+In this program we will write code to check solution for the Sudoku game (i.e. a suitable 2D array).
 
 And checks whether it is a valid solution. 
